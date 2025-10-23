@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sad-emoji_0: -1820165327454301386
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

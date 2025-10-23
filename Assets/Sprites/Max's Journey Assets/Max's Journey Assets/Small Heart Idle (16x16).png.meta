@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Small Heart Idle (16x16)_0: -5560566913418531353
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
